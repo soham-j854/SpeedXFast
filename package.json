@@ -1,0 +1,25 @@
+{
+  "name": "cooked",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-0bffe1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soham-j854/SpeedXFast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/soham-j854/SpeedXFast/issues"
+  },
+  "homepage": "https://github.com/soham-j854/SpeedXFast#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
